@@ -7,6 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+awscli = "^1.22.87"
 
 [tool.poetry.dev-dependencies]
 
